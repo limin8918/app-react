@@ -1,1 +1,1 @@
-console.log("test");
+require('../../public/js/main.js');

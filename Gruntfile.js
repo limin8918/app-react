@@ -15,5 +15,7 @@ module.exports = function (grunt) {
         }
     });
 
-    grunt.registerTask('dev', ['watch']);
+    grunt.registerTask('dev', ['package', 'watch']);
+
+    grunt.registerTask('package', ['clean', 'sass', 'webpack']);
 };
