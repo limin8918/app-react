@@ -3,8 +3,14 @@
   "version": "0.0.1",
   "description": "react demo",
   "scripts": "grunt start",
+  "engines": {
+    "node": "5.1.0"
+  },
   "devDependencies": {
     "grunt": "^1.0.1",
-    "grunt-cli": "^1.2.0"
+    "grunt-cli": "^1.2.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-express-server": "^0.5.3",
+    "load-grunt-config": "^0.19.2"
   }
 }
