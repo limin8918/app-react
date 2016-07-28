@@ -1,0 +1,10 @@
+{
+  "name": "app-react",
+  "version": "0.0.1",
+  "description": "react demo",
+  "scripts": "grunt start",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-cli": "^1.2.0"
+  }
+}

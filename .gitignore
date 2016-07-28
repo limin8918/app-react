@@ -1,0 +1,10 @@
+## ide
+.idea
+
+## mac
+.DS_Store
+
+
+node_modules
+bower_components
+web_modules
