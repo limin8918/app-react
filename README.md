@@ -10,3 +10,5 @@
 > npm install
 
 > grunt dev
+
+> http://localhost:9004/public/css/example.css
